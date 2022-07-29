@@ -1,0 +1,320 @@
+
+Time: 0
+[0]:6 3
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 1
+[0]:6 3
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 2
+[0]:6 3
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 3
+[0]:6 3
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 4
+[0]:6 3
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 5
+[0]:6 3
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 6
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: [0] 
+Server1: 
+
+Time: 7
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: [0] 
+Server1: 
+
+Time: 8
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 9
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 10
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 11
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 12
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 13
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 14
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 15
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 16
+[3]:17 3
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 17
+[1]:25 2
+[2]:28 3
+Server0: [3] 
+Server1: 
+
+Time: 18
+[1]:25 2
+[2]:28 3
+Server0: [3] 
+Server1: 
+
+Time: 19
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 20
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 21
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 22
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 23
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 24
+[1]:25 2
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 25
+[2]:28 3
+Server0: [1] 
+Server1: 
+
+Time: 26
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 27
+[2]:28 3
+Server0: 
+Server1: 
+
+Time: 28
+Server0: [2] 
+Server1: 
+
+Time: 29
+Server0: [2] 
+Server1: 
+
+Time: 30
+Server0: 
+Server1: 
+
+Time: 31
+Server0: 
+Server1: 
+
+Time: 32
+Server0: 
+Server1: 
+
+Time: 33
+Server0: 
+Server1: 
+
+Time: 34
+Server0: 
+Server1: 
+
+Time: 35
+Server0: 
+Server1: 
+
+Time: 36
+Server0: 
+Server1: 
+
+Time: 37
+Server0: 
+Server1: 
+
+Time: 38
+Server0: 
+Server1: 
+
+Time: 39
+Server0: 
+Server1: 
+
+Time: 40
+Server0: 
+Server1: 
+
+Time: 41
+Server0: 
+Server1: 
+
+Time: 42
+Server0: 
+Server1: 
+
+Time: 43
+Server0: 
+Server1: 
+
+Time: 44
+Server0: 
+Server1: 
+
+Time: 45
+Server0: 
+Server1: 
+
+Time: 46
+Server0: 
+Server1: 
+
+Time: 47
+Server0: 
+Server1: 
+
+Time: 48
+Server0: 
+Server1: 
+
+Time: 49
+Server0: 
+Server1: 
+
+Time: 50
+Server0: 
+Server1: 
+
+Time: 51
+Server0: 
+Server1: 
+
+Time: 52
+Server0: 
+Server1: 
+
+Time: 53
+Server0: 
+Server1: 
+
+Time: 54
+Server0: 
+Server1: 
+
+Time: 55
+Server0: 
+Server1: 
+
+Time: 56
+Server0: 
+Server1: 
+
+Time: 57
+Server0: 
+Server1: 
+
+Time: 58
+Server0: 
+Server1: 
+
+Time: 59
+Server0: 
+Server1: 
+
+ Average Waiting Time 2.75
+ Average Service Time 2.75
+ PeakHour 6
